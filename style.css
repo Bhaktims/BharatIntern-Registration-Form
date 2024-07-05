@@ -1,0 +1,10 @@
+.main{
+    padding: 20px;
+    box-shadow:  5px 5px 7px 5px #64303088;
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
